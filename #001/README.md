@@ -7,8 +7,8 @@ If we list all the natural numbers below ```10``` that are multiples of ```3``` 
 Find the sum of all the multiples of ```3``` or ```5``` below ```N```.
 
 ### Input Format
-- 1 $\le$ T $\le$ $10^{5}$
-- 1 $\le$ N $\le$ $10^{9}$ 
+- 1 &le; T &le; 10<sup>5</sup>
+- 1 &le; N &le; 10<sup>9</sup>
 
 ### Output Format
 
