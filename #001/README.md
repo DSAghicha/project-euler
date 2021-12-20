@@ -19,7 +19,7 @@ Find the sum of all the multiples of ```3``` or ```5``` below ```N```.
 100
 ```
 
-**Sample Input 0**
+**Sample Output 0**
 ```
 23
 2318
